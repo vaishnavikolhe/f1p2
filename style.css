@@ -1,0 +1,134 @@
+body{
+    background-color: black;
+    color: white;
+}
+.logo{
+    
+    
+width: 159px;
+height: 72px;
+left: 59px;
+top: 27px;
+display: il;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+}
+#Search{
+    display: inline;
+    width: 597px;
+    height: 40px;
+    top: 25px;
+    background: #262626;
+    border-radius: 10px;
+    border: none;
+    margin-left: 100px;
+    font-weight: 600;
+    justify-content: center;
+
+}
+
+#btnnav{
+    
+    background: #262626;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    color: white;
+    font-weight: 600;
+    margin-left: 40px;
+    margin-right: 0px;
+   
+}
+#aboutus{
+    background: #262626;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.abouthead{
+    font-size: 40px;
+}
+#vector{
+    padding: 17px;
+    display: inline;
+    background: #FECB03;;
+    border-radius: 16px;
+}
+
+.threeimage{
+    display: grid;
+  align-content: end;
+}
+#clock{
+    margin-left: 900px;
+}
+
+
+.knowmore{
+    background: #FECB03;;
+    border-radius: 200px;
+    border: none;
+    padding: 15px;
+    color: black;
+    font-weight: 600;
+    margin-left: 1000px;
+    margin-right: 0px;
+}
+
+#catagories{
+
+       
+        border-radius: 10px;
+        padding: 10px;
+        margin-top: 10px;
+
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+  
+  .row {margin: 0 -5px;}
+  
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    padding: 16px;
+
+  }
+
+  #mybtn{
+    background: #FECB03;;
+    border-radius: 150px;
+    margin-left: 100px;
+    float: right;
+    padding: 15px;
+}
+#footer{
+    background: #262626;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.footerhead{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.cardfooter {
+    padding: 16px;
+
+  }
+
